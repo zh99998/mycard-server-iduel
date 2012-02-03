@@ -1,0 +1,53 @@
+# Logfile created on 2012-02-03 07:54:44 +0800 by logger.rb/25413
+I, [2012-02-03T07:54:44.352422 #5008]  INFO -- main: 初始化成功
+I, [2012-02-03T07:54:44.584435 #5008]  INFO -- : << #0|zh99997,96e79218965eb72c92a549dd5a330112,f5276841bca2e536788917498435693b,20110131￠
+I, [2012-02-03T08:03:07.669844 #2184]  INFO -- main: 初始化成功
+I, [2012-02-03T08:03:07.925859 #2184]  INFO -- : << #0|zh99997,96e79218965eb72c92a549dd5a330112,f5276841bca2e536788917498435693b,20110131￠
+I, [2012-02-03T08:03:08.459889 #2184]  INFO -- : >> $B|201629,zh99997,090e3e81,Level-1 (总经验:248),,20101118
+I, [2012-02-03T08:05:53.029922 #3568]  INFO -- main: 初始化成功
+I, [2012-02-03T08:05:53.260935 #3568]  INFO -- : << #0|zh99997,96e79218965eb72c92a549dd5a330112,f5276841bca2e536788917498435693b,20110131￠
+I, [2012-02-03T08:05:53.766964 #3568]  INFO -- : >> $B|201629,zh99997,bbf95f89,Level-1 (总经验:248),,20101118
+I, [2012-02-03T08:06:02.731477 #3568]  INFO -- : >> $N|zh99998(201448),.
+I, [2012-02-03T08:06:02.731477 #3568]  INFO -- : --------Unknown iDuel Event-------
+I, [2012-02-03T08:06:32.549394 #2888]  INFO -- main: 初始化成功
+I, [2012-02-03T08:06:32.790408 #2888]  INFO -- : << #0|zh99997,96e79218965eb72c92a549dd5a330112,f5276841bca2e536788917498435693b,20110131￠
+I, [2012-02-03T08:12:59.734960 #2760]  INFO -- main: 初始化成功
+I, [2012-02-03T08:12:59.973771 #2760]  INFO -- : << #0|zh99997,96e79218965eb72c92a549dd5a330112,f5276841bca2e536788917498435693b,20110131￠
+I, [2012-02-03T08:13:00.473800 #2760]  INFO -- : >> $B|201629,zh99997,bd5c246d,Level-1 (总经验:248),,20101118
+I, [2012-02-03T08:13:06.500108 #2760]  INFO -- : >> $N|zh99998(201448),喵
+I, [2012-02-03T08:29:31.535254 #2184]  INFO -- main: 初始化成功
+I, [2012-02-03T08:29:31.737266 #2184]  INFO -- : << #0|zh99997,96e79218965eb72c92a549dd5a330112,f5276841bca2e536788917498435693b,20110131￠
+I, [2012-02-03T08:29:32.673319 #2184]  INFO -- : >> $B|201629,zh99997,44584912,Level-1 (总经验:248),,20101118
+E, [2012-02-03T08:29:32.673319 #2184] ERROR -- 致命错误: NameError: uninitialized constant Iduel::PrivateChat
+D, [2012-02-03T08:29:32.674319 #2184] DEBUG -- : ["E:/zh99998/Documents/NetBeansProjects/mycard-server-iduel/lib/main.rb:30:in `new'", "E:/zh99998/Documents/NetBeansProjects/mycard-server-iduel/lib/main.rb:30:in `rescue in server'", "E:/zh99998/Documents/NetBeansProjects/mycard-server-iduel/lib/main.rb:34:in `server'", "E:/zh99998/Documents/NetBeansProjects/mycard-server-iduel/lib/main.rb:57:in `<top (required)>'", "E:/RPG/Ruby192/lib/ruby/gems/1.9.1/gems/ruby-debug-ide-0.4.9/lib/ruby-debug-ide.rb:109:in `debug_load'", "E:/RPG/Ruby192/lib/ruby/gems/1.9.1/gems/ruby-debug-ide-0.4.9/lib/ruby-debug-ide.rb:109:in `debug_program'", "E:/RPG/Ruby192/lib/ruby/gems/1.9.1/gems/ruby-debug-ide-0.4.9/bin/rdebug-ide:87:in `<top (required)>'", "E:/RPG/Ruby192/bin/rdebug-ide:19:in `load'", "E:/RPG/Ruby192/bin/rdebug-ide:19:in `<main>'"]
+E, [2012-02-03T08:29:32.674319 #2184] ERROR -- iduel-connect-1: #<NameError: uninitialized constant Iduel::PrivateChat>
+E:/zh99998/Documents/NetBeansProjects/mycard-server-iduel/lib/main.rb:21:in `server'
+E:/zh99998/Documents/NetBeansProjects/mycard-server-iduel/lib/main.rb:57:in `<top (required)>'
+E:/RPG/Ruby192/lib/ruby/gems/1.9.1/gems/ruby-debug-ide-0.4.9/lib/ruby-debug-ide.rb:109:in `debug_load'
+E:/RPG/Ruby192/lib/ruby/gems/1.9.1/gems/ruby-debug-ide-0.4.9/lib/ruby-debug-ide.rb:109:in `debug_program'
+E:/RPG/Ruby192/lib/ruby/gems/1.9.1/gems/ruby-debug-ide-0.4.9/bin/rdebug-ide:87:in `<top (required)>'
+E:/RPG/Ruby192/bin/rdebug-ide:19:in `load'
+E:/RPG/Ruby192/bin/rdebug-ide:19:in `<main>'
+I, [2012-02-03T08:30:19.306168 #4868]  INFO -- main: 初始化成功
+I, [2012-02-03T08:30:19.507180 #4868]  INFO -- : << #0|zh99997,96e79218965eb72c92a549dd5a330112,f5276841bca2e536788917498435693b,20110131￠
+I, [2012-02-03T08:30:20.003208 #4868]  INFO -- : >> $B|201629,zh99997,41ff5adc,Level-1 (总经验:248),,20101118
+E, [2012-02-03T08:30:20.003208 #4868] ERROR -- 致命错误: NameError: uninitialized constant Iduel::PrivateChat
+D, [2012-02-03T08:30:20.003208 #4868] DEBUG -- : ["E:/zh99998/Documents/NetBeansProjects/mycard-server-iduel/lib/main.rb:30:in `new'", "E:/zh99998/Documents/NetBeansProjects/mycard-server-iduel/lib/main.rb:30:in `rescue in server'", "E:/zh99998/Documents/NetBeansProjects/mycard-server-iduel/lib/main.rb:34:in `server'", "E:/zh99998/Documents/NetBeansProjects/mycard-server-iduel/lib/main.rb:57:in `<top (required)>'", "E:/RPG/Ruby192/lib/ruby/gems/1.9.1/gems/ruby-debug-ide-0.4.9/lib/ruby-debug-ide.rb:109:in `debug_load'", "E:/RPG/Ruby192/lib/ruby/gems/1.9.1/gems/ruby-debug-ide-0.4.9/lib/ruby-debug-ide.rb:109:in `debug_program'", "E:/RPG/Ruby192/lib/ruby/gems/1.9.1/gems/ruby-debug-ide-0.4.9/bin/rdebug-ide:87:in `<top (required)>'", "E:/RPG/Ruby192/bin/rdebug-ide:19:in `load'", "E:/RPG/Ruby192/bin/rdebug-ide:19:in `<main>'"]
+E, [2012-02-03T08:30:20.003208 #4868] ERROR -- iduel-connect-1: #<NameError: uninitialized constant Iduel::PrivateChat>
+E:/zh99998/Documents/NetBeansProjects/mycard-server-iduel/lib/main.rb:21:in `server'
+E:/zh99998/Documents/NetBeansProjects/mycard-server-iduel/lib/main.rb:57:in `<top (required)>'
+E:/RPG/Ruby192/lib/ruby/gems/1.9.1/gems/ruby-debug-ide-0.4.9/lib/ruby-debug-ide.rb:109:in `debug_load'
+E:/RPG/Ruby192/lib/ruby/gems/1.9.1/gems/ruby-debug-ide-0.4.9/lib/ruby-debug-ide.rb:109:in `debug_program'
+E:/RPG/Ruby192/lib/ruby/gems/1.9.1/gems/ruby-debug-ide-0.4.9/bin/rdebug-ide:87:in `<top (required)>'
+E:/RPG/Ruby192/bin/rdebug-ide:19:in `load'
+E:/RPG/Ruby192/bin/rdebug-ide:19:in `<main>'
+I, [2012-02-03T08:30:20.004208 #4868]  INFO -- : << #B|241102,48ed5a2dd843fd1516ba98fb7ddc1103￠
+I, [2012-02-03T08:30:23.333370 #5100]  INFO -- main: 初始化成功
+I, [2012-02-03T08:30:23.572383 #5100]  INFO -- : << #0|zh99997,96e79218965eb72c92a549dd5a330112,f5276841bca2e536788917498435693b,20110131￠
+I, [2012-02-03T08:30:24.071412 #5100]  INFO -- : >> $B|201629,zh99997,603c71b9,Level-1 (总经验:248),,20101118
+E, [2012-02-03T08:30:24.072412 #5100] ERROR -- 致命错误: NameError: uninitialized constant Iduel::PrivateChat
+D, [2012-02-03T08:30:24.072412 #5100] DEBUG -- : ["E:/zh99998/Documents/NetBeansProjects/mycard-server-iduel/lib/main.rb:30:in `new'", "E:/zh99998/Documents/NetBeansProjects/mycard-server-iduel/lib/main.rb:30:in `rescue in server'", "E:/zh99998/Documents/NetBeansProjects/mycard-server-iduel/lib/main.rb:34:in `server'", "E:/zh99998/Documents/NetBeansProjects/mycard-server-iduel/lib/main.rb:57:in `<main>'"]
+E, [2012-02-03T08:30:24.073412 #5100] ERROR -- iduel-connect-1: #<NameError: uninitialized constant Iduel::PrivateChat>
+E:/zh99998/Documents/NetBeansProjects/mycard-server-iduel/lib/main.rb:21:in `server'
+E:/zh99998/Documents/NetBeansProjects/mycard-server-iduel/lib/main.rb:57:in `<main>'
+I, [2012-02-03T08:30:24.073412 #5100]  INFO -- : << #B|241102,2fc8dfdd5b82310deda614eb83141be2￠

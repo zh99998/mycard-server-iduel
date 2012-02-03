@@ -1,0 +1,12 @@
+/nbproject/
+/ruby/
+/pkg/
+/config.yml
+/log.log
+/profile.log
+/replay/
+/mycard/
+/mycard.exe
+/7z.exe
+/graphics/avatars/*_*.png
+Thumbs.db
